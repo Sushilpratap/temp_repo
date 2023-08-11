@@ -1,0 +1,2 @@
+Here is the result : Hello this is first file
+, hello Sushil , wrote smthng in second fileappending this text
